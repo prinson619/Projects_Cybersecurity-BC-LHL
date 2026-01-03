@@ -37,7 +37,7 @@ This space contains various projects I completed during the Cybersecurity Bootca
 
 **Description:** This project focuses on developing an Incident Response Plan for the organization, BC Ferries in the event of a Ransomware attack. It integrates a detailed Ransomware Incident Response Playbook with high-level organizational security policies to ensure swift, structured, and compliant responses to the related security incident. The plan minimizes operational disruptions, protects sensitive data, and fosters regulatory compliance.
 
-**Disclaimer:** This project was only conducted for educational perposes and not affiliated with BC Ferries in any way.
+**Disclaimer: This project was only conducted for educational perposes and not affiliated with BC Ferries in any way.**
 
 **Report:** [IR Plan, Playbook and Policy; BC Ferries]
 
